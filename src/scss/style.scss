@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+  color: red;
+}
+
+
+canvas#canvas {
+  width: 800px;
+  height: 600px;
+  background: #e5e8ea;
+  margin-top: 10px;
+}
